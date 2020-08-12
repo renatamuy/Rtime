@@ -1,6 +1,6 @@
 # Sorting a presence value as a factor in a new columns
 
-df<- data.frame(japanese = c(1,0,0), kiwi=c(0,1,2))
+df<- data.frame(japanese = c(1,0,0), kiwi=c(0,1,1))
 
 df
 
